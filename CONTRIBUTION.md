@@ -1,0 +1,17 @@
+# Contributing to WindowSelectorToolkit
+
+## How to Contribute
+We welcome contributions from everyone. Here are some ways you can contribute:
+
+- Reporting bugs
+- Suggesting enhancements
+- Submitting pull requests with bug fixes or new features
+
+## Pull Request Process
+1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
+2. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations, and container parameters.
+3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
+4. Your pull request will be reviewed by the maintainers of the project and feedback will be given accordingly.
+
+## Questions?
+If you have any questions, please feel free to contact the project maintainers.
