@@ -13,7 +13,7 @@ WindowSelectorToolkit is a Python-based utility that enables users to select any
 To use WindowSelectorToolkit, ensure you have Python installed on your system. Clone this repository, and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/WindowSelectorToolkit.git
+git clone https://github.com/webstercharly/WindowSelectorToolkit.git
 cd WindowSelectorToolkit
 pip install -r requirements.txt
 ```
