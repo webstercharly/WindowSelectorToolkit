@@ -22,7 +22,7 @@ pip install -r requirements.txt
 Run `select-window.py` to start the application. Follow the on-screen instructions to select an application window and perform actions like capturing screenshots or overlaying windows.
 
 ## Contributing
-Contributions to the WindowSelectorToolkit are welcome! Please refer to the [CONTRIBUTION.md] for guidelines on how to contribute to this project.
+Contributions to the WindowSelectorToolkit are welcome! Please refer to the [CONTRIBUTION.md](https://github.com/webstercharly/WindowSelectorToolkit/blob/main/CONTRIBUTION.md) for guidelines on how to contribute to this project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/webstercharly/WindowSelectorToolkit/blob/main/LICENSE) file for details.
